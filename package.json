@@ -1,0 +1,30 @@
+{
+  "name": "react-data-grid-copy-paste-v7",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "fixed-react-data-grid": "6.0.2",
+    "immutable": "4.0.0-rc.12",
+    "lodash": "4.17.15",
+    "react": "16.13.0",
+    "react-data-grid": "7.0.0-alpha.20",
+    "react-data-grid-addons": "7.0.0-alpha.30",
+    "react-dom": "16.13.0",
+    "react-scripts": "3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
